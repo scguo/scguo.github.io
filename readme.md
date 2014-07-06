@@ -1,5 +1,7 @@
 ﻿# scguo.github.io !
 
+[Visit me!](index.html)
+
 :soon:
 
 (╯°□°）╯︵ ┻━┻
