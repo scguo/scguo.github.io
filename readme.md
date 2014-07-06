@@ -1,6 +1,6 @@
 ﻿# scguo.github.io !
 
-[Visit me!](index.html)
+[Visit me!](http://scguo.github.io/)
 
 :soon:
 
