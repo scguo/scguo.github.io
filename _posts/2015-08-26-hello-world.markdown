@@ -3,6 +3,7 @@ layout: post
 title:  "Hello World!"
 date:   2015-08-26 23:42:37
 categories: life
+comments: False
 ---
 
 Why, hello there, my name is Steve Guo and I welcome you to my humble blog.
