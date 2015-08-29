@@ -1,4 +1,4 @@
-{% if page.comments %}
+{% if jekyll.environment != "development" and page.comments %}
 <div id="disqus_thread"></div>
 <script type="text/javascript">
     /* * * CONFIGURATION VARIABLES * * */
