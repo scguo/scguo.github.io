@@ -2,28 +2,29 @@
 layout: default
 ---
 
-<div class="home">
-  <div class="wrapper">
-    <h1 class="page-heading">Posts</h1>
-
-    <ul class="post-list">
-      {% for post in site.posts %}
-        <li>
-          <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-          <h2>
-            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-          </h2>
-        </li>
-      {% endfor %}
-    </ul>
+<div>
+  <div class="col-md-8">
+    <div class="panel panel-primary">
+      <div class="panel-heading">
+        <span class="glyphicon glyphicon-pencil"></span> Posts
+      </div>
+      <ul class="panel-body">
+        {% for post in site.posts %}
+          <li>
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> &mdash;&nbsp;<span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
   </div>
-  
-  <div class="wrapper">
-    {% include blogroll.html %}
+  <div class="col-md-4">
+    <div class="panel panel-default">
+      <div class="panel-heading">
+        <span class="glyphicon glyphicon-bullhorn"></span> Blogroll
+      </div>
+      <div class="panel-body">
+        {% include blogroll.html %}
+      </div>
+    </div>
   </div>
-  
-  <!-- Full meta jacket!
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-  -->
 </div>
