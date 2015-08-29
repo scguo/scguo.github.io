@@ -47,3 +47,9 @@ $on-laptop:        800px;
         "layout",
         "syntax-highlighting"
 ;
+
+/* Path to glyphicons */
+$icon-font-path: "/bower_components/bootstrap-sass/assets/fonts/bootstrap/";
+
+/* Any style customization must be before the bootstrap import */
+@import "../bower_components/bootstrap-sass/assets/stylesheets/bootstrap";
