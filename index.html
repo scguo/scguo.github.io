@@ -5,22 +5,23 @@ layout: default
 <div>
   <div class="col-md-8">
     <div class="panel panel-primary">
-      <div class="panel-heading">
-        <span class="glyphicon glyphicon-pencil"></span> Posts
+      <div class="panel-heading text-center">
+        <i class="fa fa-fw fa-2x fa-sticky-note"></i> Posts
       </div>
-      <ul class="panel-body">
+      <div class="panel-body text-center">
+        <div class="list-group">
         {% for post in site.posts %}
-          <li>
-            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> &mdash;&nbsp;<span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+          <a class="list-group-item post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }} &mdash;&nbsp;<span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span></a>
           </li>
         {% endfor %}
-      </ul>
+        </div>
+      </div>
     </div>
   </div>
   <div class="col-md-4">
     <div class="panel panel-default">
-      <div class="panel-heading">
-        <span class="glyphicon glyphicon-bullhorn"></span> Blogroll
+      <div class="panel-heading text-center">
+        <i class="fa fa-fw fa-2x fa-bullhorn"></i> Blogroll
       </div>
       <div class="panel-body">
         {% include blogroll.html %}
