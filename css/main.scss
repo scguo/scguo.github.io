@@ -48,8 +48,13 @@ $on-laptop:        800px;
         "syntax-highlighting"
 ;
 
-/* Path to glyphicons */
+/* Override path variable to bootstrap glyphicons for sass compiler */
 $icon-font-path: "/bower_components/bootstrap-sass/assets/fonts/bootstrap/";
 
 /* Any style customization must be before the bootstrap import */
 @import "../bower_components/bootstrap-sass/assets/stylesheets/bootstrap";
+
+/* Override path variable to fontawesome icons for sass compiler */
+$fa-font-path: "/bower_components/font-awesome-sass/assets/fonts/font-awesome/";
+
+@import "../bower_components/font-awesome-sass/assets/stylesheets/font-awesome";
