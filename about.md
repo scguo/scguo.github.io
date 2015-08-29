@@ -10,9 +10,7 @@ I'm Steve Guo, currently studying Computer Science at [Carleton University](http
 
 When I'm not prodding a keyboard you can find me critting kids as [top][3la] [lane][lecarre] [Tryndamere][suchbot], biking the [Trans Canada Trail][trail], flick shotting my teammates [with the AWP][csgod], or playing ultimate frisbee!
 
-This site is built with [Jekyll](http://jekyllrb.com/), [Github](https://github.com/), [Brackets](http://brackets.io/), and narcissism. You can find the source code [here](https://github.com/scguo/scguo.github.io).
-
-
+This site is built with [Jekyll](http://jekyllrb.com/), [Github](https://github.com/), [Brackets](http://brackets.io/), [Bower][bower], [Bootstrap][bootstrap], [Sass][sass] and narcissism. You can find the source code [here](https://github.com/scguo/scguo.github.io).
 
 ---
 
@@ -24,3 +22,6 @@ Non-binding legalese: This is a personal blog so please exercise your discretion
 [suchbot]: http://quickfind.kassad.in/profile/na/SuchBot/
 [trail]: http://tctrail.ca/
 [csgod]: http://blog.counter-strike.net/
+[bower]: http://bower.io/
+[bootstrap]: http://getbootstrap.com/
+[sass]: http://sass-lang.com/
