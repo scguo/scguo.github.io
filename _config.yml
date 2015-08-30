@@ -12,7 +12,6 @@ steam_username: newThrow
 
 # Build settings
 markdown: kramdown
-highlighter: null
 
 # Outputting
 permalink: pretty
