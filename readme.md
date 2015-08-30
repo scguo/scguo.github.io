@@ -1,9 +1,5 @@
-﻿# scguo.github.io !
+## I made a blog!
 
-[Visit me!](http://scguo.github.io/)
+Jekyll + gh-pages = :shipit:
 
-:soon:
-
-(╯°□°）╯︵ ┻━┻
-┬─┬ノ( º _ ºノ)
-(╯°Д°）╯︵/(.□ . )
+[Visit me!](http://scguo.github.io/) :heart:
