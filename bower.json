@@ -1,0 +1,28 @@
+{
+  "name": "Blasé Malaise",
+  "version": "1.0.0",
+  "homepage": "scguo.github.io",
+  "authors": [
+    "Steve Guo <steve.guo@carleton.ca>"
+  ],
+  "description": "Steve Guo's blog",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "blog"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "~3.3.5",
+    "font-awesome-sass": "~4.4.0",
+    "jquery": "~2.1.4"
+  }
+}
