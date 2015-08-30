@@ -11,8 +11,10 @@ layout: default
       <div class="panel-body text-center">
         <div class="list-group">
         {% for post in site.posts %}
-          <a class="list-group-item post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }} &mdash;&nbsp;<span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span></a>
-          </li>
+          <a class="list-group-item post-link" href="{{ post.url | prepend: site.baseurl }}">
+            <h3 class="list-group-item">{{ post.title }}<span class="post-meta badge">{{ post.date | date: "%b %-d, %Y" }}</span></h3>
+            
+          </a>
         {% endfor %}
         </div>
       </div>
