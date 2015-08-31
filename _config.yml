@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Steve Guo's blog — Code/Game/Life
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://scguo.github.io" # the base hostname & protocol for your site
-github_username:  scguo
+github_username: scguo
 linkedin_username: scguo
 googleplus_username: SteveGuo1
 steam_username: newThrow
