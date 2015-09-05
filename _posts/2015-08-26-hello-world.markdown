@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  "Hello World!"
+author: Steve Guo
 date:   2015-08-26 23:42:37
-categories: life
+category: life
 comments: False
 ---
 
