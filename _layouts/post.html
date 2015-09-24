@@ -9,4 +9,18 @@ layout: default
   <article class="post-content">
     {{ content }}
   </article>
+  <nav>
+    <ul class="pager">
+      {% if page.previous %}
+      <li class="previous">
+        <a rel="prev" title="Previous Post: {{ page.previous.title }}" href="{{ page.previous.url }}">&larr; {{ page.previous.title }} </a>  
+      </li>
+      {% endif %}
+      {% if page.next %}
+      <li class="next">
+        <a rel="next" title="Next Post: {{ page.next.title }}" href="{{ page.next.url }}"> {{ page.next.title }} &rarr;</a>
+      </li>
+      {% endif %}
+    </ul>
+  </nav>
 </div>
