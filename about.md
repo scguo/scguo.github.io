@@ -8,7 +8,7 @@ Hi!
 
 I'm Steve Guo, currently studying Computer Science at [Carleton University](http://carleton.ca/). I identify as a web developer and I have had the pleasure of having completed co-op placements at [pymetrics][py], [Martello Technologies][martello], and [TekSavvy][tsi].
 
-When I'm not prodding a keyboard you can find me critting kids as [top][3la] [lane][lecarre] [Tryndamere][suchbot], biking the [Trans Canada Trail][trail], flick shotting my teammates [with the AWP][csgod], or playing ultimate frisbee!
+When I'm not prodding a keyboard you can find me critting kids as [top][3la] [lane][lecarre] [Tryndamere][suchbot], biking the [Trans Canada Trail][trail], flick shotting my teammates [with the AWP][csgod], playing ultimate frisbee, or erratically using Oxford commas!
 
 This site is built with [Jekyll](http://jekyllrb.com/), [Github](https://github.com/), [Brackets](http://brackets.io/), [Bower][bower], [Bootstrap][bootstrap], [Sass][sass] and narcissism. You can find the source code [here](https://github.com/scguo/scguo.github.io).
 
