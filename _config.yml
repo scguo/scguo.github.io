@@ -10,10 +10,14 @@ github_username: scguo
 linkedin_username: scguo
 googleplus_username: SteveGuo
 steam_username: newThrow
-twitter_username: newThrow
 
 # Build settings
 markdown: kramdown
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
 exclude: ["Gemfile",
   "Gemfile.lock",
   "/bower_components/bootstrap-sass/*.md",
