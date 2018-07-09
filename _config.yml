@@ -20,8 +20,10 @@ defaults:
       image: true
 exclude: ["Gemfile",
   "Gemfile.lock",
+  "bower.json",
   "/bower_components/bootstrap-sass/*.md",
-  "/bower_components/font-awesome-sass/*.md"
+  "/bower_components/font-awesome-sass/*.md",
+  "readme.md"
 ]
 
 # Outputting
