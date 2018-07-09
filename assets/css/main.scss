@@ -45,12 +45,7 @@ $on-laptop:        800px;
 
 
 
-// Import partials from `sass_dir` (defaults to `_sass`)
-@import
-        "base",
-        "layout",
-        "syntax-highlighting"
-;
+
 
 /* Override path variable to bootstrap glyphicons for sass compiler */
 $icon-font-path: "/bower_components/bootstrap-sass/assets/fonts/bootstrap/";
@@ -62,3 +57,10 @@ $icon-font-path: "/bower_components/bootstrap-sass/assets/fonts/bootstrap/";
 $fa-font-path: "/bower_components/font-awesome-sass/assets/fonts/font-awesome/";
 
 @import "../bower_components/font-awesome-sass/assets/stylesheets/font-awesome";
+
+// Import partials from `sass_dir` (defaults to `_sass`), last to overwrite crappy defaults
+@import
+        "base",
+        "layout",
+        "syntax-highlighting"
+;
