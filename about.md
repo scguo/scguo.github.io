@@ -1,20 +1,25 @@
 ---
 layout: page
-title: About Me
+title: whoami
 permalink: /about/
 ---
 
-Hi!
+Hi! `o/`
 
-I'm Steve Guo and I do webdev. I have had the pleasure of completing co-op placements at [pymetrics][py], [Martello Technologies][martello], [TekSavvy][tsi], and [EPAM][epam]. I also have a B.C.S. from [Carleton University](http://carleton.ca/).
+![Exhibit 1: Steve Guo @ Britannia Beach]({{ "/assets/img/707.png" | absolute_url }})
+> `$ whoami`
 
-When I'm not [typeracing][typestart] you may find me [taking photographs][flickr], [missing flickshots][ql], biking the [Trans Canada Trail][trail], acrylic painting, or erratically using Oxford commas! I also used to enjoy critting kids as [top][3la] [lane][lecarre] [Tryndamere][suchbot].
+I'm Steve Guo and I primarily do webdev<!-- and dabble in any and everything -->. I have had the pleasure of completing co-op placements at [pymetrics][py], [Martello Technologies][martello], [TekSavvy][tsi], and [EPAM][epam]. I also have a B.C.S. from [Carleton University](http://carleton.ca/).
 
-This site is built with [Jekyll](http://jekyllrb.com/), [Github](https://github.com/), vi, [Bower][bower], [Bootstrap][bootstrap], [Sass][sass] and narcissism. You can find the source code [here](https://github.com/scguo/scguo.github.io).
+If I'm not [taking photographs][flickr] you may find me [biking on the Trans Canada Trail][trail], attempting Ottawa river crossings in flip-flops, failing to impart running English with my 19oz cue, [typeracing as a QWERTY pleb][typestart], [missing flickshots][ql], painting with acrylics, or erratically using Oxford commas! In a past life I also used to enjoy [critting][3la] [kids as][lecarre] [Tryndamere][suchbot].
+
+This site is built with [Jekyll](http://jekyllrb.com/), [Github](https://github.com/), [VSCode][vs-code], [vi][vi], [Bower][bower], [Bootstrap][bootstrap], [Sass][sass] and narcissism. You can find the source code [here](https://github.com/scguo/scguo.github.io).
 
 ---
 
-Non-binding legalese: This is a personal blog so please exercise your discretion here, and note that the views expressed herein are my own and do not reflect those of any other entity. Regarding disclosure, I aim to avoid conflicts of interest, and I may also retroactively fix errors that I am alerted to.
+Non-binding legalese: This is a personal blog so please exercise your discretion here, and note that the views expressed herein are my own and do not reflect those of any other entity. Regarding disclosure, I aim to avoid conflicts of interest, and I may also retroactively fix errors that I am alerted to. Statements made within are usually meant solely in jest and do not aim to slander any particular entity or to make me liable to libel suits!
+
+`\o` ***kthxbai!***
 
 [py]: https://www.pymetrics.com/
 [martello]: http://martellotech.com/
@@ -30,3 +35,5 @@ Non-binding legalese: This is a personal blog so please exercise your discretion
 [bower]: http://bower.io/
 [bootstrap]: http://getbootstrap.com/
 [sass]: http://sass-lang.com/
+[vi]: http://ex-vi.sourceforge.net/
+[vs-code]: https://code.visualstudio.com/
