@@ -1,14 +1,14 @@
 # Site settings
-title: Blasé Malaise | Steve Guo's Blog
+title: Blasé Malaise | Stef Gab's Blog
 short_title: Blasé Malaise
 email: steve.guo@carleton.ca
 description: > # this means to ignore newlines until "baseurl:"
-  Steve Guo's Blog — Code/Game/Life
+  Stef Gab's Blog — Code/Game/Life
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://scguo.github.io" # the base hostname & protocol for your site
 github_username: scguo
 linkedin_username: scguo
-googleplus_username: SteveGuo
+googleplus_username: <redacted />
 steam_username: newThrow
 
 # Build settings

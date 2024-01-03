@@ -1,11 +1,11 @@
 {
   "name": "Blasé Malaise",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "scguo.github.io",
   "authors": [
-    "Steve Guo <steve.guo@carleton.ca>"
+    "Stef Gab <steve.guo@carleton.ca>"
   ],
-  "description": "Steve Guo's blog",
+  "description": "Stef Gab's blog",
   "moduleType": [
     "globals"
   ],
