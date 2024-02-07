@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/scguo
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://scguo.github.io
+  * I am scguo (https://keybase.io/scguo) on keybase.
+  * I have a public key ASCQrJsvIdYywoEwmsi4c8HMrhJKdmyjvH2gQ3FRyITbfwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01200a9715b4edfe6e8784a419c520dfc4fbdced76624a57df574bc16a64cec96f870a",
+      "host": "keybase.io",
+      "kid": "012090ac9b2f21d632c281309ac8b873c1ccae124a766ca3bc7da0437151c884db7f0a",
+      "uid": "b18c5f2be915b935d488fed40432f119",
+      "username": "scguo"
+    },
+    "merkle_root": {
+      "ctime": 1707278082,
+      "hash": "7161458e43677da2068d38f611ec2e9a485ae9ef4b17a9cec66d7fb651dd801c6813bd9ca91228e8062ce3e6883faddc89eb42d89aed9fe7363dab413176d980",
+      "hash_meta": "839fd95b13c2e5e9b16755d42f1c36f48409011ce732b6273b9f547ea4e5ede0",
+      "seqno": 25435966
+    },
+    "service": {
+      "entropy": "TA2jp6K5CAAJsShqe5sYyVd2",
+      "hostname": "scguo.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.2.5"
+  },
+  "ctime": 1707278154,
+  "expire_in": 504576000,
+  "prev": "250a2db6eefebf6c3d3144ad9d71b117f08f0f40530b67c9450e67c2983c7003",
+  "seqno": 14,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgkKybLyHWMsKBMJrIuHPBzK4SSnZso7x9oENxUciE238Kp3BheWxvYWTESpcCDsQgJQottu7+v2w9MUStnXGxF/CPD0BTC2fJRQ5nwpg8cAPEICymJqqwWcFs8JUe5hqfNwck3+ByhYIba6TTHISZ9J4HAgHCo3NpZ8RAsJpbvMwMr2TBxkCps4mu2sa7laFCkhKbPXfGL2SkGxTtSK8Ar5ZqL6HpDu4M/J4wPvOKEbb3QCU9k9VDqD7tDqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIAfvDG14FmXL2D9Z2CJzXaoG2o4/tyKMwwsTYYbwqUlWo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/scguo
+
+==================================================================
