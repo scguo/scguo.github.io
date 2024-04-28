@@ -3,9 +3,9 @@
   "version": "1.0.1",
   "homepage": "scguo.github.io",
   "authors": [
-    "Stef Gab <steve.guo@carleton.ca>"
+    "Steve Guo <steve.guo@carleton.ca>"
   ],
-  "description": "Stef Gab's blog",
+  "description": "Steve Guo's blog",
   "moduleType": [
     "globals"
   ],

@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Hello World!"
-author: Stef Gab
+author: Steve Guo
 date:   2015-08-26 23:42:37
 category: life
 comments: False
 ---
 
-Why, hello there, my name is Stef Gab and I welcome you to my humble blog.
+Why, hello there, my name is Steve Guo and I welcome you to my humble blog.
 
 I subscribe to the mentality of [strong opinions, weakly held][strong-opinions], and I expect to be infrequently musing here about coding, gaming, and living. I want this blog to serve as a quick introspective snapshot of me, but also hope that it will serve as an accessible collection of reflections that might—both—help and brighten up someone’s day.
 
@@ -17,7 +17,7 @@ Regarding [comments][blog-comments], I expect to be implementing [Disqus][disqus
 
 Cheers,
 
-Stef
+Steve
 
 [strong-opinions]: http://www.saffo.com/02008/07/26/strong-opinions-weakly-held/
 [blog-comments]: http://blog.codinghorror.com/a-blog-without-comments-is-not-a-blog/
